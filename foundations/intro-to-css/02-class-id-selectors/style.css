@@ -1,0 +1,19 @@
+p {
+    background: rgb(238,130,238);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+
+#second {
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+#fourth {
+    background:rgb(60,179,113);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.three {
+    font-size: 24px;
+}
