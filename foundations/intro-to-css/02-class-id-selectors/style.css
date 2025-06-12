@@ -1,6 +1,6 @@
 p {
     background: rgb(238,130,238);
-    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+    font-family: Verdana, "DejaVu Sans", sans-serif;   
 }
 
 #second {
@@ -14,6 +14,9 @@ p {
     font-weight: bold;
 }
 
+.fifth{
+    font-style: italic;
+}
 .three {
     font-size: 24px;
 }
